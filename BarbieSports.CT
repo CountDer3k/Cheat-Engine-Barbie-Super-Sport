@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="29">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Summer Tickets"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>SPORTS.EXE+80AA8</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"WInter Tickets"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Sports.exe+80AAC</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Winter Score (While Shredding)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Sports.exe+80E14</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Winter Star (In Shop)"</Description>
+      <VariableType>4 Bytes</VariableType>
+      <Address>Sports.exe+80E0C</Address>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
