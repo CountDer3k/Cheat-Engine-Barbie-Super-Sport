@@ -1,4 +1,4 @@
-# -Cheat-Engine-Barbie-Super-Sport
+# CheatEngine: Barbie Super Sport
 Cheat Table for Pinball Space Cadet 3D using [CheatEngine](https://www.cheatengine.org).
 
 ### All my cheat tables can be found [here](https://github.com/CountDer3k/Cheat-Engine-Projects).
